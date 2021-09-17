@@ -1,3 +1,3 @@
 # vgues
-Python
+## Python
 Это наш первый проект на Python
